@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/konvaballons/static/css/main.2cce8147.chunk.css",
-    "main.js": "/konvaballons/static/js/main.d2f04fe9.chunk.js",
-    "main.js.map": "/konvaballons/static/js/main.d2f04fe9.chunk.js.map",
+    "main.js": "/konvaballons/static/js/main.9d421719.chunk.js",
+    "main.js.map": "/konvaballons/static/js/main.9d421719.chunk.js.map",
     "runtime~main.js": "/konvaballons/static/js/runtime~main.69d7f821.js",
     "runtime~main.js.map": "/konvaballons/static/js/runtime~main.69d7f821.js.map",
     "static/js/2.dd128db0.chunk.js": "/konvaballons/static/js/2.dd128db0.chunk.js",
     "static/js/2.dd128db0.chunk.js.map": "/konvaballons/static/js/2.dd128db0.chunk.js.map",
     "index.html": "/konvaballons/index.html",
-    "precache-manifest.c170b886e5fa0f35c147cdcf6b72df44.js": "/konvaballons/precache-manifest.c170b886e5fa0f35c147cdcf6b72df44.js",
+    "precache-manifest.f00d7999bc7a9fc56d3f555f3da68db0.js": "/konvaballons/precache-manifest.f00d7999bc7a9fc56d3f555f3da68db0.js",
     "service-worker.js": "/konvaballons/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/konvaballons/static/css/main.2cce8147.chunk.css.map"
   }
