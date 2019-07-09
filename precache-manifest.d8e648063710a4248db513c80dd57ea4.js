@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef95de649f43e594ce86809046141384",
+    "revision": "5583608168d77ac3188847b4832dae72",
     "url": "/konvaballons/index.html"
   },
   {
-    "revision": "2a10321e8e60f22c4d2e",
+    "revision": "e7d17bb62ca2a499c067",
     "url": "/konvaballons/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/konvaballons/static/js/2.dd128db0.chunk.js"
   },
   {
-    "revision": "2a10321e8e60f22c4d2e",
-    "url": "/konvaballons/static/js/main.8bcc0245.chunk.js"
+    "revision": "e7d17bb62ca2a499c067",
+    "url": "/konvaballons/static/js/main.01d7b977.chunk.js"
   },
   {
     "revision": "7f214fa32eff04b19582",
